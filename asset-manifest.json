@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rabieta/static/css/main.085f81fa.chunk.css",
+    "main.js": "/rabieta/static/js/main.2f79026a.chunk.js",
+    "main.js.map": "/rabieta/static/js/main.2f79026a.chunk.js.map",
+    "runtime-main.js": "/rabieta/static/js/runtime-main.c0d51b31.js",
+    "runtime-main.js.map": "/rabieta/static/js/runtime-main.c0d51b31.js.map",
+    "static/js/2.a6bd234f.chunk.js": "/rabieta/static/js/2.a6bd234f.chunk.js",
+    "static/js/2.a6bd234f.chunk.js.map": "/rabieta/static/js/2.a6bd234f.chunk.js.map",
+    "index.html": "/rabieta/index.html",
+    "static/css/main.085f81fa.chunk.css.map": "/rabieta/static/css/main.085f81fa.chunk.css.map",
+    "static/js/2.a6bd234f.chunk.js.LICENSE.txt": "/rabieta/static/js/2.a6bd234f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/rabieta/static/media/negra.7b9b1976.jpg",
+    "static/media/logorabieta.3a7bd93b.jpg": "/rabieta/static/media/logorabieta.3a7bd93b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0d51b31.js",
+    "static/js/2.a6bd234f.chunk.js",
+    "static/css/main.085f81fa.chunk.css",
+    "static/js/main.2f79026a.chunk.js"
+  ]
+}
